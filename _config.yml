@@ -1,3 +1,18 @@
 theme: jekyll-theme-cayman
 title: Welcome to League STUCO 2021 Fall!
 description: Feel free to explore the different content on this website
+
+exclude:
+- README.md
+
+#optimization
+#compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
