@@ -3,9 +3,9 @@
 
 Below are the links to the slides that were used in the fall 2021 version of the class.
 
-| Class No.   | Beginner      | Advanced |
-| :---------: |:-------------| -----:|
-| 1           |[Welcome](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)| $1600 |
+| Class No.   | Topic   | Beginner      | Advanced |
+| :---------: | :--:    | :------------- | -----:|
+| 1           | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
 | 2           | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
