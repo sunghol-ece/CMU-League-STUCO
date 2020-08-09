@@ -1,6 +1,4 @@
-# Welcome to 98-239 STUCO League of Legends!
----
-## Table of Contents
+# Table of Contents
 
 |No.          | Content | 
 | :---: | :-----: |
@@ -11,7 +9,7 @@
 |5.     |?|
 
 ---
-## Slides
+# Slides
 Below are the links to the slides that were used in the fall 2021 version of the class.
 
 | Class No.   | Topic   | Beginner     | Advanced |
@@ -25,7 +23,10 @@ Below are the links to the slides that were used in the fall 2021 version of the
 | 7           | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
 | 8           | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
 
-## Schedule
+---
+# Schedule
+
+---
 
 ### Markdown
 
