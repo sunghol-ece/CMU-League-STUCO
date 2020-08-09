@@ -1,11 +1,20 @@
-## Welcome to 98-239 STUCO League of Legends
+## Welcome to 98-239 STUCO League of Legends!
 ---
+Table of Contents
+| ----------: |   :-----:   |
+| 1.          | Slides      |
+| 2.          | Schedule    |
+| 3.          | Videos      |
+| 4.          | Assessments |
+| 5.          | ?           |
 
+
+---
 Below are the links to the slides that were used in the fall 2021 version of the class.
 
 | Class No.   | Topic   | Beginner     | Advanced |
 | :---------: | :-----: | :----------: | :-----:  |
-| 1           | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
+| 1           | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)| N/A |
 | 2           | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
 | 3           | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
 | 4           | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
