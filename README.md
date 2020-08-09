@@ -2,12 +2,13 @@
 ---
 # Table of Contents
 
-| :---------: | :-----: |
-|1. |[Slides](#slides)|
-|2. |Schedule|
-|3. |Videos|
-|4. |Assessments|
-|5. |?|
+|No.          | Content | 
+| :---: | :-----: |
+|1.     |[Slides](#slides)|
+|2.     |Schedule|
+|3.     |Videos|
+|4.     |Assessments|
+|5.     |?|
 
 ---
 # Slides
