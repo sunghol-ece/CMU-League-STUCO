@@ -1,11 +1,17 @@
-## Welcome to 98-239 StUCO League of Legends
+## Welcome to 98-239 STUCO League of Legends
 ---
 
-Below are the links to the slides that were 
-[slides1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)
+Below are the links to the slides that were used in the fall 2021 version of the class.
 
+| Class No.   | Beginner      | Advanced |
+| :---------: |:-------------| -----:|
+| 1           |[Welcome](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)| $1600 |
+| 2           | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+Class 1 - 
+Class 2 - 
 ---
-Here is the  [editor on GitHub](https://github.com/mousetrapbot01/CMU-League-STUCO/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
