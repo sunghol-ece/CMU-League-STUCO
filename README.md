@@ -1,6 +1,7 @@
 ## Welcome to 98-239 STUCO League of Legends!
 ---
 Table of Contents
+
 | ----------: |   :-----:   |
 | 1.          | Slides      |
 | 2.          | Schedule    |
