@@ -3,17 +3,16 @@
 
 Below are the links to the slides that were used in the fall 2021 version of the class.
 
-| Class No.   | Topic   | Beginner      | Advanced |
-| :---------: | :--:    | :------------- | -----:|
+| Class No.   | Topic   | Beginner     | Advanced |
+| :---------: | :-----: | :----------: | :-----:  |
 | 1           | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
-| 2           | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-Class 1 - 
-Class 2 - 
----
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| 2           | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
+| 3           | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
+| 4           | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
+| 5           | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
+| 6           | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
+| 7           | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
+| 8           | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
 
 ### Markdown
 
