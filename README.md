@@ -1,7 +1,7 @@
 # Table of Contents
 
 |No.   | Content | 
-| ---: | :-----: |
+| ---: | -----: |
 |1     |[Schedule / Slides](#schedule)|
 |2     |[Assessments](#assessments)|
 |3     |[Videos](#videos)|
