@@ -2,11 +2,10 @@
 
 |No.          | Content | 
 | :---: | :-----: |
-|1.     |[Slides](#slides)|
-|2.     |[Schedule](#schedule)|
-|3.     |[Videos](#videos)|
-|4.     |[Assessments](#assessments)|
-|5.     |[?](#?)|
+|1.     |[Slides](#schedule,-slides)|
+|2.     |[Videos](#videos)|
+|3.     |[Assessments](#assessments)|
+|4.     |[?](#?)|
 
 ---
 # Schedule, Slides
