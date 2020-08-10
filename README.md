@@ -1,8 +1,8 @@
 # Table of Contents
 
-|No.          | Content | 
+|No.    | Content | 
 | :---: | :-----: |
-|1.     |[Schedule / Slides](#schedule,-slides)|
+|1.     |[Schedule / Slides](#schedule)|
 |2.     |[Videos](#videos)|
 |3.     |[Assessments](#assessments)|
 |4.     |[?](#?)|
