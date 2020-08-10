@@ -4,7 +4,7 @@
 | ---: | -----: |
 |1     |[Schedule / Slides](#schedule)|
 |2     |[Assessments](#assessments)|
-|3     |[Videos](#videos)|
+|3     |[Additional Material](#additional-material)|
 |4     |[?](#?)|
 
 ---
@@ -35,7 +35,7 @@ Assessments will follow the following format. Make sure to watch the video and p
 
 
 ---
-# Videos
+# Additional Material
 
 ---
 # ?
