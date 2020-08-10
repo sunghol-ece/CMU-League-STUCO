@@ -3,8 +3,8 @@
 |No.   | Content | 
 | ---: | :-----: |
 |1     |[Schedule / Slides](#schedule)|
-|2     |[Videos](#videos)|
-|3     |[Assessments](#assessments)|
+|2     |[Assessments](#assessments)|
+|3     |[Videos](#videos)|
 |4     |[?](#?)|
 
 ---
