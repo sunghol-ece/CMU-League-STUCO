@@ -3,10 +3,10 @@
 |No.          | Content | 
 | :---: | :-----: |
 |1.     |[Slides](#slides)|
-|2.     |Schedule|
-|3.     |Videos|
-|4.     |Assessments|
-|5.     |?|
+|2.     |[Schedule](#schedule)|
+|3.     |[Videos](#videos)|
+|4.     |[Assessments](#assessments)|
+|5.     |[?](#?)|
 
 ---
 # Slides
@@ -27,6 +27,16 @@ Below are the links to the slides that were used in the fall 2021 version of the
 # Schedule
 
 ---
+# Videos
+
+---
+# Assessments
+
+---
+# ?
+
+---
+
 
 ### Markdown
 
