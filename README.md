@@ -29,7 +29,7 @@ Assessments will follow the following format. Make sure to watch the video and p
 
 | No. | Date        | Topic   | Beginner     | Advanced |
 | ---:| :---------: | :-----: | :----------: | :-----:  |
-| 1   | 01/06/21    | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)| N/A |
+| 1   | 01/06/21    | Farming |[link](https://youtu.be/FE721kcU2DY)| N/A |
 | 2   | 01/06/21    | Farming |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)| N/A |
 
 
