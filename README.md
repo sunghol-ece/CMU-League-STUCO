@@ -11,22 +11,31 @@
 # Schedule
 Below are the links to the slides that were used in the fall 2021 version of the class.
 
-| Class No.| Date        | Topic   | Beginner     | Advanced |
-| ---:     | :---------: | :-----: | :----------: | :-----:  |
-| 1        | 01/06/21    | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)| N/A |
-| 2        | 01/06/21    | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
-| 3        | 01/06/21    | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
-| 4        | 01/06/21    | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
-| 5        | 01/06/21    | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
-| 6        | 01/06/21    | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
-| 7        | 01/06/21    | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
-| 8        | 01/06/21    | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
-
----
-# Videos
+| No. | Date        | Topic   | Beginner     | Advanced |
+| ---:| :---------: | :-----: | :----------: | :-----:  |
+| 1   | 01/06/21    | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)| N/A |
+| 2   | 01/06/21    | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
+| 3   | 01/06/21    | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
+| 4   | 01/06/21    | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
+| 5   | 01/06/21    | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
+| 6   | 01/06/21    | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
+| 7   | 01/06/21    | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
+| 8   | 01/06/21    | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
 
 ---
 # Assessments
+
+Assessments will follow the following format. Make sure to watch the video and practice!
+
+| No. | Date        | Topic   | Beginner     | Advanced |
+| ---:| :---------: | :-----: | :----------: | :-----:  |
+| 1   | 01/06/21    | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)| N/A |
+| 2   | 01/06/21    | Farming |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)| N/A |
+
+
+
+---
+# Videos
 
 ---
 # ?
