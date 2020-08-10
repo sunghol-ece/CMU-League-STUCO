@@ -8,7 +8,7 @@
 |4.     |[?](#?)|
 
 ---
-# Schedule, Slides
+# Schedule
 Below are the links to the slides that were used in the fall 2021 version of the class.
 
 | Date     | Class No.   | Topic   | Beginner     | Advanced |
