@@ -12,7 +12,7 @@
 Below are the links to the slides that were used in the fall 2021 version of the class.
 
 | No. | Date        | Topic   | Beginner     | Advanced |
-| ---:| :---------  | :-----  | :----------: | :-----:  |
+| :---:| :---------: | :-----: | :----------: | :-----:  |
 | 1   | 01/06/21    | Welcome |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)| N/A |
 | 2   | 01/06/21    | Pick and Ban |[2-1](https://docs.google.com/presentation/d/18a0bNOvqKwTD51dxMAgvpY8bUZIF7O5Ga11IquYUDz0/edit?usp=sharing)|[2-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
 | 3   | 01/06/21    | CSing |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
