@@ -38,6 +38,7 @@ Assessments will follow the following format. Make sure to watch the video and p
 # Additional Material
 
 The videos below will be used in class for reference / good resources in general to look at for a particular concept.
+
 | Topic                           | Link                                       | Remarks                     |
 | :----------:                    | :--------------------------------------:   | :------:                    |
 | Tower Diving / Aggro Separation | [Link](https://youtu.be/cTJhvMqTaHQ?t=234) | Watch Morgana and Azir      |
