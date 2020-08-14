@@ -40,7 +40,7 @@ Assessments will follow the following format. Make sure to watch the video and p
 The videos below will be used in class for reference / good resources in general to look at for a particular concept.
 
 | Topic                           | Link                                       | Remarks                     |
-| :----------:                    | :--------------------------------------:   | :------:                    |
+| :------------------------:      | :--------------------------------------:   | :----------------------:    |
 | Tower Diving / Aggro Separation | [Link](https://youtu.be/cTJhvMqTaHQ?t=234) | Watch Morgana and Azir      |
 | Even pros make stupid mistakes  | [Link](https://youtu.be/cTJhvMqTaHQ?t=213) | Don't blame your teammates! |
 | Preemptive Spells / Ult Use     | [Link](https://youtu.be/cTJhvMqTaHQ?t=387) | Watch Lulu and Graves ult   |
