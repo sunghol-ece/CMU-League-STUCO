@@ -15,10 +15,10 @@ Below are the links to the slides that were used in the fall 2021 version of the
 | :---:| :---------:| :---------:           | :----------: | :-----:  |
 | 1   | 02/05/21    | Welcome               |[1-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)| N/A |
 | 2   | 02/12/21    | Micro & Laning        |[2-1](https://docs.google.com/presentation/d/18a0bNOvqKwTD51dxMAgvpY8bUZIF7O5Ga11IquYUDz0/edit?usp=sharing)|[2-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
-| 3   | 02/26/21    | Macro & Objectives    |[3-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
+| 3   | 02/26/21    | Macro & Objectives    |[3-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[3-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
 | 4   | 03/12/21    | Communication         |[4-1](https://docs.google.com/presentation/d/1oIFDJXcNjAznx8QWySorQVpUzvFfRrw3rMxsllOGUCk/edit?usp=sharing)|[4-2](https://docs.google.com/presentation/d/1g_kSUMCjeQ3aImK62a2zjk9gbi6RkifMsQjVBjzvuU0/edit?usp=sharing) |
-| 5   | 03/26/21    | Pick/Ban, Composition | [5-1](https://docs.google.com/presentation/d/1oIFDJXcNjAznx8QWySorQVpUzvFfRrw3rMxsllOGUCk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
-| 6   | 01/06/21    | Meta Analysis, Solo Q |[6-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[1-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
+| 5   | 03/26/21    | Pick/Ban, Composition | [5-1](https://docs.google.com/presentation/d/1oIFDJXcNjAznx8QWySorQVpUzvFfRrw3rMxsllOGUCk/edit?usp=sharing)|[5-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
+| 6   | 01/06/21    | Meta Analysis, Solo Q |[6-1](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing)|[6-2](https://docs.google.com/presentation/d/1Mgp7BRhwmlrQ-XU6XLSmiuKcTSVYUd1ARdel_ecxdOk/edit?usp=sharing) |
 
 ---
 # Assessments
@@ -46,6 +46,6 @@ The videos below will be used in class for reference / good resources in general
 | Midlane Vision control          | [Link](https://youtu.be/-twx7ibsK2g?t=122) | Push and Ward, Help the JG  |
 
 ---
-# ?
-
+# In Development
+...
 ---
