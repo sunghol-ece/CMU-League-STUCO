@@ -48,5 +48,8 @@ The videos below will be used in class for reference / good resources in general
 | Vision control + Mechanics      | [Link](https://youtu.be/cTJhvMqTaHQ?t=432) | Caitlyn oneshots the Galio  |
 | Invade Protection, Tab Press    | [Link](https://youtu.be/-twx7ibsK2g?t=73)  | Tab Press, Skill Pt Lv Up   |
 | Midlane Vision control          | [Link](https://youtu.be/-twx7ibsK2g?t=122) | Push and Ward, Help the JG  |
+| Ping - Going                    | [Link](https://youtu.be/D0PDHJDR6po)       | When to Ping - Going        |
+| Ping - Caution                  | [Link](https://youtu.be/mGez5jD_E60)       | When to Ping - Caution      |
+
 
 ---
